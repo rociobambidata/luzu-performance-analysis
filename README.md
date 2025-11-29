@@ -40,7 +40,6 @@ Los datos se obtienen directamente desde la **YouTube Data API**, consultada des
 ## Contenido del repositorio
 - /notebooks → Notebook completo del análisis (.ipynb)
 - /presentation → Presentación del informe (PDF)
-- /images → Gráficos exportados (opcional)
 - /requirements.txt → Librerías necesarias para reproducir el proyecto
 
 ---
