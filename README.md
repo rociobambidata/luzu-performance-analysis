@@ -72,12 +72,12 @@ Los datos se obtienen directamente desde la **YouTube Data API**, consultada des
 
 ---
 
-## Cómo reproducir el análisis
-1. **Clonar o descargar** este repositorio.  
+### Cómo reproducir el análisis
+1. Clonar o descargar este repositorio.
 2. Instalar dependencias:
-```bash
+   
 pip install -r requirements.txt
 
 3. Ejecutar el notebook:
-```bash
+   
 /notebooks/luzu_performance_analysis.ipynb
