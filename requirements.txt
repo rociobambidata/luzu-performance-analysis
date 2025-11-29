@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+isodate
+pytz
+google-api-python-client
+scikit-learn
