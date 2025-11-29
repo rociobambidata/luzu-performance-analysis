@@ -38,10 +38,10 @@ Los datos se obtienen directamente desde la **YouTube Data API**, consultada des
 ---
 
 ## Contenido del repositorio
-/notebooks → Notebook completo del análisis (.ipynb)
-/presentation → Presentación del informe (PDF)
-/images → Gráficos exportados (opcional)
-/requirements.txt → Librerías necesarias para reproducir el proyecto
+- /notebooks → Notebook completo del análisis (.ipynb)
+- /presentation → Presentación del informe (PDF)
+- /images → Gráficos exportados (opcional)
+- /requirements.txt → Librerías necesarias para reproducir el proyecto
 
 ---
 
@@ -77,5 +77,7 @@ Los datos se obtienen directamente desde la **YouTube Data API**, consultada des
 2. Instalar dependencias:
 ```bash
 pip install -r requirements.txt
+
 3. Ejecutar el notebook:
+```bash
 /notebooks/luzu_performance_analysis.ipynb
