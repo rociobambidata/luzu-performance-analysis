@@ -75,6 +75,54 @@ This repository does **not** include local CSV files — the notebook retrieves 
 
 ---
 
+## Key Visualizations
+
+Below are the most relevant visualizations that helped uncover meaningful patterns in the dataset and informed the final insights of the analysis.
+
+### **1. Top Engagement Videos**
+This bar chart highlights which videos achieved the highest engagement, helping identify the types of content that resonate most with the audience.
+
+<img src="figures/top_engagement_videos.png" width="550">
+
+---
+
+### **2. Views by Day and Hour (Heatmap)**
+The heatmap reveals clear temporal patterns, showing the days and hours with the highest viewership. This helps determine the optimal posting times for maximizing reach.
+
+<img src="figures/views_day_hour_heatmap.png" width="550">
+
+---
+
+### **3. Duration vs Views**
+This scatter plot explores the relationship between video length and total views, helping determine whether longer or shorter videos tend to perform better.
+
+<img src="figures/duration_vs_views.png" width="550">
+
+---
+
+### **4. Correlation Heatmap**
+The correlation matrix provides an overview of how numerical features relate to each other and to performance metrics, guiding feature selection for modeling.
+
+<img src="figures/correlation_heatmap.png" width="550">
+
+---
+
+### **5. Feature Importance (Model Output)**
+This plot highlights which variables contributed most to the predictive model, supporting data-driven decisions about what factors most influence video performance.
+
+<img src="figures/feature_importance.png" width="550">
+
+---
+
+### **See all visualizations**
+All generated figures — including exploratory analysis plots and additional metrics — can be found in the dedicated folder:
+
+**`/figures/`**
+
+This folder contains every PNG exported during the analysis, allowing you to explore the full set of visual insights used throughout the project.
+
+---
+
 ## **How to Reproduce the Analysis**
 
 1. Clone or download this repository.  
